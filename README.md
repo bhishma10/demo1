@@ -1,3 +1,3 @@
 # demo1
 This is my first github repository.
-Author- Bhishma Oli
+Author- Bhishma Oli(Personal)
